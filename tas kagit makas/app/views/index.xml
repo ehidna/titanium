@@ -1,0 +1,14 @@
+<Alloy>
+	<Window class="container">
+		
+		<Button id="button" class="btn-primary" name="rock" onClick="tasKMakas" center="" left="">
+			rock
+		</Button>
+		<Button id="button1" name="paper" onClick="tasKMakas" center="" center="">
+			paper
+		</Button>
+		<Button id="button2" name="scissors" onClick="tasKMakas" center="" right="">
+			scissors
+		</Button>
+	</Window>
+</Alloy>
